@@ -1,16 +1,16 @@
-### Hi there 👋
+### Kevin Yin
 
-<!--
-**kevinyin9/kevinyin9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi! Welcome to my GitHub place.
 
-Here are some ideas to get you started:
+I am a Software Engineer specializing in backend and system core engineering (but not limited to). My keen interest in Ethereum Hobbying using Rust with a solid understanding of traditional backend engineering sets me apart.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Work Experiences
+
+### Education & Extracuricular Activities
+* Department of Computer Science, National Chiao Tung University. (2017.09 ~ 2021.06)
+
+### See how extent I loves algorithm❤️
+
+### 📫 How to reach me
+- linkedin: https://www.linkedin.com/in/huan-wen-yin/
+- email: kevinyin999@gmail.com
